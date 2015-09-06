@@ -1,7 +1,7 @@
 Scrobbleproxy
 -------------
 
-A terrible Last.fm API 2.0 compatible server that scrobbling and full authentication. Currently using mocked out local storage in sqlite.
+A terrible Last.fm API 2.0 compatible server that implements scrobbling and full authentication. Currently using mocked out local storage in sqlite.
 
 You'll want this in your hosts file for now:
 ````
